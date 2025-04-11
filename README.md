@@ -1,4 +1,3 @@
-# Retail-price-optimizer
 # 🛍️ Retail Price Optimizer
 
 This Streamlit app helps optimize retail product pricing using historical sales data and machine learning.
